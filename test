@@ -1,0 +1,8 @@
+count = 7
+while count < 1:
+    print("Hello World")
+my_votes = int(700)
+total_votes = int(1000)
+percent_votes = (my_votes / total_votes) * 100
+print("I recieved" + str(percent_votes)+ '% of the total votes.')
+print(f"I recieved {my_votes / total_votes *100} % of the total votes")

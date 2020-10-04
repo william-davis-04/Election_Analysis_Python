@@ -20,6 +20,7 @@ winning_percentage = 0
 
 
 
+
 #open the election results and read the file.
 with open(file_to_load) as election_data:
     file_reader = csv.reader(election_data)
@@ -83,6 +84,7 @@ with open(file_to_load) as election_data:
                 print(winning_candidate_summary)
                 #save winning candidate sumarrary to the text file. 
             txt_file.write(winning_candidate_summary)
+
     
             
 

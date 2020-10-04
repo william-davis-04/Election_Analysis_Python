@@ -56,5 +56,5 @@ The analysis of the election yielded the following results
   - Jefferson County: 38,855 votes (10.5%)
  - The County with the largest voter turnout was Denver County with 306,055 votes (82.8%).
  
- ## Challenge Summary 
+ ## End of Summary Analysis
   
